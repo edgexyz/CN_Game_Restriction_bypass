@@ -13,5 +13,5 @@ Scripts could be used in combination with [elecV2P](https://github.com/elecV2/el
 #### Arknights
 
 ```
-
+https://cdn.jsdelivr.net/gh/edgexyz/CN_Game_Restriction_bypass@master/Configs/ak_anti-addiction_bypass.conf
 ```

@@ -5,7 +5,7 @@ Arknights CN bypass Anti-addiction
 QuantumultX:
 
 [rewrite_local]
-^https?:\/\/as\.hypergryph\.com\/online\/v1\/ping url script-response-body https://raw.githubusercontent.com/Tao0Lu/Arknights_Anti-addiction_Cheater/master/JS-script/ak_anti-addiction_bypass.js
+^https?:\/\/as\.hypergryph\.com\/online\/v1\/ping url script-response-body https://raw.githubusercontent.com/edgexyz/CN_Game_Restriction_bypass/main/Scripts/ak_anti-addiction_bypass.js
 
 [mitm]
 hostname = as.hypergryph.com

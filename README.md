@@ -6,7 +6,7 @@ This project is inspired by [Tao0Lu/Arknights_Anti-addiction_Cheater](https://gi
 
 ## Usage
 
-Scripts could be used in combination with [elecV2P](https://github.com/elecV2/elecV2P), [QuantumultX](https://apps.apple.com/us/app/quantumult-x/id1443988620), [Surge](https://nssurge.com), as well as all other mitm proxy clients.
+Scripts could be used in combination with [elecV2P](https://github.com/elecV2/elecV2P), [QuantumultX](https://apps.apple.com/us/app/quantumult-x/id1443988620), [Surge](https://nssurge.com), as well as all other mitm proxy clients that support JS scripts.
 
 ### QuantumultX rewrite configs
 

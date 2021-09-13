@@ -15,3 +15,8 @@ Scripts could be used in combination with [elecV2P](https://github.com/elecV2/el
 ```
 https://cdn.jsdelivr.net/gh/edgexyz/CN_Game_Restriction_bypass@master/Configs/ak_anti-addiction_bypass.conf
 ```
+
+## Reference
+
+- [Biligame Addiction Not Limited](https://github.com/FuckAntiAddiction/BiligameAddictionNotLimited)
+- [Arknights Anti-addiction Cheater](https://github.com/Tao0Lu/Arknights_Anti-addiction_Cheater)
